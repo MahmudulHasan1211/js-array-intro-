@@ -49,4 +49,8 @@ console.log(marks.includes(68))
 console.log(marks.indexOf(78)) 
 //value 77 is not present in this array so it will return -1 
 console.log(marks.indexOf(77)) 
+// join value of array 
 console.log(marks.join('+'))
+
+// join two array (concat)
+console.log(bikePrice.concat(marks));
