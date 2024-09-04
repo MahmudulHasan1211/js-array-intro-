@@ -47,3 +47,5 @@ console.log(marks.includes(68))
 
 // find the index of marks array value
 console.log(marks.indexOf(78)) 
+//value 77 is not present in this array so it will return -1 
+console.log(marks.indexOf(77)) 
