@@ -27,4 +27,15 @@ console.log(hasa)
 const tik = hasa.pop()
 console.log(tik)
 
+// shift unshift 
+let rooms = [101, 102, 104]
+console.log(rooms)
+// add the value at 0 index 
+rooms.unshift(100)
+console.log(rooms)
 
+let bikePrice = ['100k', '200k', '300k']
+console.log(bikePrice)
+// remove the value of index 0 
+bikePrice.shift()
+console.log(bikePrice)
