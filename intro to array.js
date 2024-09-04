@@ -39,3 +39,8 @@ console.log(bikePrice)
 // remove the value of index 0 
 bikePrice.shift()
 console.log(bikePrice)
+
+// check the value already added or not 
+const marks =[33, 40, 66, 78]
+console.log(marks.includes(66))
+console.log(marks.includes(68))
