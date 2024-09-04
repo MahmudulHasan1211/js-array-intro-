@@ -44,3 +44,6 @@ console.log(bikePrice)
 const marks =[33, 40, 66, 78]
 console.log(marks.includes(66))
 console.log(marks.includes(68))
+
+// find the index of marks array value
+console.log(marks.indexOf(78)) 
