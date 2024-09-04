@@ -54,3 +54,6 @@ console.log(marks.join('+'))
 
 // join two array (concat)
 console.log(bikePrice.concat(marks));
+
+// slice 
+console.log(marks.slice(1,3))
